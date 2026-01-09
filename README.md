@@ -2,7 +2,7 @@
 
 Software Engineer at Schibsted and Vend Polska.
 
-Co-Founder of AGH Athletics Intelligence SKN.
+Co-Founder of AGH Athletics Intelligence SKN. [Link](https://athletics-intelligence.netlify.app/pl/)
 
 Co-Founder and Board Memeber at Neuvelia creator of Empatiie AI Mental Health Chatbot [Link](https://empatiie-web-app.vercel.app/)
 
